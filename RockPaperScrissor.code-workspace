@@ -1,0 +1,15 @@
+{
+    "folders": [
+		{
+			"name": "assets",
+			"path": "C:\\Users\\Treys\\Downloads\\rock-paper-scissor-master\\rock-paper-scissor-master\\assets"
+		},
+		{
+			"name": "JavaScript",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript"
+	}
+}
